@@ -1,0 +1,3 @@
+# Advent of Code 2022
+
+My implementations of Advent of Code problems. Trying Rust this year, let's see how far I get...
