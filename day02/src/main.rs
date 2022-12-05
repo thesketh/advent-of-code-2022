@@ -147,7 +147,7 @@ fn main() {
     println!("Assuming the 'result' cheating strategy, our score is {}", assume_result_score);
 }
 
-/// Tests for the elf calorie counting functionality.
+/// Tests for the hand scoring functionality.
 #[cfg(test)]
 mod tests {
     use super::*;
